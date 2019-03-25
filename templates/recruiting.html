@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block pagehead %}
+  <title>{{page_name}}</title>
+{% endblock %}
+
+{% block content %}
+<section class="section">
+  <div class="container">
+    <table class="table is-fullwidth">
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Role</th>
+          <th>Skills</th>
+          <th>Number</th>
+          <th>Experience</th>
+          <th>apply</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%for data in datas%}
+        <tr>
+          <td>
+            <figure class="image is-32x32">
+              <a href="{{data[0]}}">
+              <img class="is-rounded" src="{{data[1]}}">
+              </a>
+            </figure>
+          </td>
+          <td>
+            {{data[2]}}
+          </td>
+          <td>
+            {{data[3]}}
+          </td>
+          <td>
+            x{{data[4]}}
+          </td>
+          <td>
+            {{data[5]}}
+          </td>
+          <td>
+            {{data[6]}}
+            
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+{% endblock %}

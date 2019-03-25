@@ -1,0 +1,28 @@
+{
+	"data":[
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"Web dev", "Angular, Node, Html5, Css, Js, Bootstrap", "3", "Senior", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"],
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"Analyst programmer", "Visual Basic 6.0, VBA, MsSQL", "1", "---", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"],
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"PHP Backend Developer", "PHP 7.0, MySQL", "3", "Senior", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"],
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"Software Engineer", ".NET, MsSQL", "25", "Senior", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"],
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"Software Engineer", "C#", "15", "Senior", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"],
+		["https://www.succexa.mu", 
+		"https://www.succexa.mu/wp-content/uploads/2019/01/Succexa-new-logo.png",
+		"Linux Team Leader", "Linux, Elastic Search, etc ...", "1", "Senior", 
+		"<a class=\"button is-success\" href=\"#\">mail: info at succexa dot mu</a>"]
+	]
+}
